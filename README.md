@@ -1,6 +1,6 @@
 <h1 align="center">Portifólio - Leandro💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
+![Imagem do projeto finalizado](assets/images/projects/dd.PNG)
 
 <h4 align="center"><a href="https://lucyanovidio.vercel.app">Confira o projeto aqui</a></h4>
 
